@@ -1,7 +1,7 @@
 {
   "name": "material-design-iconic-font",
   "description": "Material Design Iconic Font and CSS toolkit",
-  "version": "2.2.0",
+  "version": "2.2.1",
   "keywords": [
     "material",
     "design",
@@ -40,5 +40,7 @@
     "material-design-icons": "^2.0.0",
     "time-grunt": "^1.2.1"
   },
-  "dependencies": {}
+  "dependencies": {
+    "webfont": "^8.2.1"
+  }
 }

@@ -611,6 +611,7 @@ $zmdi-var-twitter: '\f360' !default;
 $zmdi-var-vk: '\f361' !default;
 $zmdi-var-wikipedia: '\f362' !default;
 $zmdi-var-windows: '\f363' !default;
+$zmdi-var-ms-teams: '\f40a' !default;
 $zmdi-var-aspect-ratio-alt: '\f364' !default;
 $zmdi-var-aspect-ratio: '\f365' !default;
 $zmdi-var-blur-circular: '\f366' !default;
@@ -3832,6 +3833,11 @@ $zmdi-var-youtube: '\f409' !default;
     content: $zmdi-var-windows;
   }
 }
+.#{$zmdi-icon-prefix}-ms-teams {
+  &:before {
+    content: $zmdi-var-ms-teams;
+  }
+}
 .#{$zmdi-icon-prefix}-aspect-ratio-alt {
   &:before {
     content: $zmdi-var-aspect-ratio-alt;
@@ -5274,6 +5280,7 @@ $md-iconset-twitter: '\f360' !default;
 $md-iconset-vk: '\f361' !default;
 $md-iconset-wikipedia: '\f362' !default;
 $md-iconset-windows: '\f363' !default;
+$md-iconset-ms-teams: '\f40a' !default;
 $md-iconset-aspect-ratio-alt: '\f364' !default;
 $md-iconset-aspect-ratio: '\f365' !default;
 $md-iconset-blur-circular: '\f366' !default;
@@ -8493,6 +8500,11 @@ $md-iconset-youtube: '\f409' !default;
 .#{$md-icon-prefix}-windows {
   &:before {
     content: $md-iconset-windows;
+  }
+}
+.#{$md-icon-prefix}-ms-teams {
+  &:before {
+    content: $md-iconset-ms-teams;
   }
 }
 .#{$md-icon-prefix}-aspect-ratio-alt {

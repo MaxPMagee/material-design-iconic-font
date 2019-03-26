@@ -1,4 +1,4 @@
-# [Material Design Iconic Font 2.2.0](http://zavoloklom.github.io/material-design-iconic-font)
+# [Material Design Iconic Font 2.2.1](http://zavoloklom.github.io/material-design-iconic-font)
 
 [![Latest Version](https://img.shields.io/github/release/zavoloklom/material-design-iconic-font.svg?style=flat-square&label=latest version)](https://github.com/zavoloklom/material-design-iconic-font/tags)
 [![Software License](https://img.shields.io/badge/license-MIT License/SIL OFL 1.1-blue.svg?style=flat-square)](LICENSE)
@@ -24,7 +24,7 @@ Material Design Icons are the official open-source [icons](http://www.google.com
 **Issue with cheatsheet**: If you think icons do not match the cheatsheet page, please read [issue 47](https://github.com/zavoloklom/material-design-iconic-font/issues/47).
 
 ### Install
-**Download:**    [2.2.0 (ZIP)](https://github.com/zavoloklom/material-design-iconic-font/releases/download/2.2.0/material-design-iconic-font.zip)   
+**Download:**    [2.2.1 (ZIP)](https://github.com/zavoloklom/material-design-iconic-font/releases/download/2.2.0/material-design-iconic-font.zip)   
 **Bower:**       `bower install material-design-iconic-font`   
 **NPM:**         `npm install material-design-iconic-font`
 
@@ -73,6 +73,9 @@ The full details of how Material Design Iconic Font is licensed and 'Thanks to' 
 In fact it can work in earlier versions of browsers accordingly to [caniuse.com](http://caniuse.com/) portal (you can check ttf, woff, transform and animation properties), but i can't test it.
 
 ### Changelog   
+v2.2.1:
+- add Microsoft Teams icon
+ 
 v2.2.0:   
 - add 33 new icons   
 - change `main` section in bower.json   
