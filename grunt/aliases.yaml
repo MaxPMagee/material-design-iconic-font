@@ -44,7 +44,6 @@ font-prod:
   tasks:
     - 'webfont:prod'
     - 'replace'
-    - 'clean:less-temp'
     - 'prod'
 less-sass:
   description: 'Convert LESS files into SASS'
