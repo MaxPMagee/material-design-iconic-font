@@ -5,7 +5,7 @@ module.exports = {
         destCss: 'less/temp',
         options: {
             font: 'Material-Design-Iconic-Font',
-            types: 'ttf,woff',
+            types: 'eot,ttf,svg,woff,woff2',
             autoHint: false,
             syntax: 'bootstrap',
             stylesheet: 'less',
